@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(212, 255, 187);
+    line-height: 1.5;
+    font-family: sans-serif;
+    text-align: justify;
+    margin: 2em;
+    padding: 2em;
+    border: solid 1px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(146, 147, 255);
+}
